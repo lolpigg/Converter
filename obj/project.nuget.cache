@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/esrxZpe8d+wR0HQiKaWpjnqrE5O1iTK/TzHSaUL8mLqYV/D/5iGdTcQtF2HfGl3s+tn603KbuunKEzu1x2ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igosh\\source\\repos\\convert\\convert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igosh\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\igosh\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
